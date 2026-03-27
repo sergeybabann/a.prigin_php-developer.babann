@@ -5,40 +5,26 @@ $pageTitle = 'Главная | Курс PHP-разработчик';
 // Массив с уроками
 $lessons = [
     [
-        'title' => 'Введение в PHP',
-        'description' => 'Основы языка: синтаксис, переменные, типы данных. Первый скрипт "Hello, World!"',
+        'title' => 'Урок 1',
+        'description' => 'Переменные, операторы',
         'link' => 'lessons/01_lesson/01_lesson.php'
     ],
     [
-        'title' => 'Переменные и типы данных',
-        'description' => 'Изучаем переменные, строки, числа, массивы и объекты. Работа с типами данных.',
+        'title' => 'Урок 2',
+        'description' => 'Типы данных, условия и циклы.',
         'link' => 'lessons/02_lesson/02_lesson.php'
     ],
     [
-        'title' => 'Условные операторы',
-        'description' => 'if, else, elseif, switch. Учимся принимать решения в коде.',
+        'title' => 'Урок 3',
+        'description' => 'Описание',
         'link' => 'lessons/03_lesson/03_lesson.php'
     ],
     [
-        'title' => 'Циклы',
-        'description' => 'for, while, foreach. Итерация и работа с массивами данных.',
+        'title' => 'Урок 4',
+        'description' => 'Описание',
         'link' => 'lessons/04_lesson/04_lesson.php'
     ],
-    [
-        'title' => 'Функции',
-        'description' => 'Создание и использование функций. Области видимости, параметры, возврат значений.',
-        'link' => 'lessons/05_lesson.php'
-    ],
-    [
-        'title' => 'Работа с формами',
-        'description' => 'GET и POST запросы. Обработка данных из HTML-форм.',
-        'link' => 'lessons/06_lesson.php'
-    ],
-    [
-        'title' => 'Работа с базами данных',
-        'description' => 'Подключение к MySQL, выполнение запросов, работа с результатами.',
-        'link' => 'lessons/07_lesson.php'
-    ]
+    
 ];
 
 // Подключаем шапку

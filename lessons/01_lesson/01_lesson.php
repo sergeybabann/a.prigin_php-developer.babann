@@ -1,8 +1,8 @@
 <?php
 // Данные для урока
-$pageTitle = 'Урок 1: Введение в PHP';
+$pageTitle = 'Урок 1: Переменные и операторы';
 $lessonNumber = 1;
-$lessonTitle = 'Введение в PHP';
+$lessonTitle = 'Переменные и операторы';
 
 // Навигация
 $prevLesson = null;
