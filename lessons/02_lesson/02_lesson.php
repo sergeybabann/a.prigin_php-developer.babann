@@ -12,14 +12,13 @@ $nextLesson = '03_lesson.php';
 $lessonContent = '
     <div class="container">
     <ul>
-    <li>Типы данных</li>
-    <li>Циклы и условия</li>
+    <li>Типы данных, циклы, массивы</li>
     </ul>
     </div>
     
     <h2>Практическое  выполнение кода</h2>
-    <a href="" target="_blank">🔗 Описание →</a>
-    <a href="" target="_blank">🔗 Описание →</a>
+    <a href="02_data-type-practice.php" target="_blank">🔗 Типы данных, циклы, массивы →</a>
+    <a href="02_loops-practice.php" target="_blank">🔗 Циклы →</a>
 ';
 
 include '../../templates/lesson_template.php';
